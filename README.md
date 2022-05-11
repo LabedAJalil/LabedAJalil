@@ -2,9 +2,10 @@
 #### Modeling and Development
 ![Profile views](https://gpvc.arturio.dev/LabedAJalil)  
 
+## 🚀 About Me
 A skilled and self-motivated software engineer seeking a challenging position that would enable me to devote my knowledge and skills to serving the growth and development of a leading company. Innovative with strong business acumen, highly resilient, and a good communicator thriving on challenges within cross-cultural environments.
 
-## Skills and Experiences
+## 🛠 Skills and Experiences
 * JAVA
 * KOTLIN
 * PYTHON
