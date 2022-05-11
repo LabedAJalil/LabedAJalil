@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm LABED ABDELDJALIL</h1>
-<h3 align="center">A passionate android developer from Algeria</h3>
-
-- 🌱 I’m currently learning **Everything related to computer science**
-
-- 👨‍💻 All of my projects are available at [LabedAJalil](LabedAJalil)
+<h3 align="center">A skilled and self-motivated software engineer seeking a challenging position that would enable me to devote my knowledge and skills in serving the growth and development of a leading company. Innovative with a strong business acumen, highly resilient, and a good communicator thriving on challenges within cross-cultural environments.</h3>
 
 - 📫 How to reach me **labed994@gmail.com**
 
